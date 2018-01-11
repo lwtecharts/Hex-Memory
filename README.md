@@ -1,12 +1,10 @@
-# Hex-Memory
+# Hex, Memory, Images
 
-## Hex, Memory, Images
+1. What is the largest number you can store in a byte? (answer in decimal form). Jot the answer down on a piece of scratch paper.
 
-What is the largest number you can store in a byte? (answer in decimal form). Jot the answer down on a piece of scratch paper.
+2. How does this relate to how you describe colors in P5, Processing, or another image-based software? (talk about the answer with the person sitting next to you).
 
-How does this relate to how you describe colors in P5, Processing, or another image-based software? (talk about the answer with the person sitting next to you).
-
-Use the tool here to encode a black and white image of your own design. Note that the first two bytes in the image bit stream represent the width and height (why are these needed?) 
+3. Use the tool [here](http://cs.ucls.uchicago.edu/~bfranke/codeDotOrg/Pixelation/Pixelation_v2.html) to encode a black and white image of your own design. Note that the first two bytes in the image bit stream represent the width and height (why are these needed?) 
 
 Share the bit stream and image with your classmates using this file (add your name too so I can give you credit!)
 Example to the right by Noah Wong, Spring 2016
